@@ -1,0 +1,5 @@
+OSM area: https://www.openstreetmap.org/search?query=37.6671%2C-122.4141#map=11/37.7194/-122.3884
+
+Having moved to the Bay Area nine months ago, I have chosen to study the San Francisco area for the OpenStreetMap project.
+
+I am using the data set provided by MapZen on their Metro Extracts Page (https://mapzen.com/metro-extracts/) which describes approximately the following OpenStreetMap Area (https://www.openstreetmap.org/search?query=37.6671%2C-122.4141#map=11/37.7194/-122.3884).
