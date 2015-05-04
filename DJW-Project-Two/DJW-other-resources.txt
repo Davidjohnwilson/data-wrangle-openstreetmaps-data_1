@@ -1,0 +1,1 @@
+No further resources used apart from Udacity, OpenStreetMap, and MapZen. (An article was used as inspiration for one of my MongoDB queries and has been linked within the main document).
